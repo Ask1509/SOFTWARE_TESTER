@@ -18,7 +18,7 @@
 
 # Шаг 2. 
 
-! [Шаг 2](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/img/Стадии%20жизненного%20цикла%20ПО.png)
+![Шаг 2](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/img/Стадии%20жизненного%20цикла%20ПО.png)
 
 [Шаг 2](https://drive.google.com/file/d/1m5MtKBG0L5tmxQJjaT2JfqJBeI6ApgQ1/view?usp=share_link)
 
