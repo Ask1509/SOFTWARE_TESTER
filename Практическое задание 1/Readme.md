@@ -24,4 +24,6 @@
 
 # Шаг 3. 
 
+![Шаг 3](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/img/Руководство%20по%20Scrum.pdf)
+
 [Шаг 3](https://www.mindmeister.com/2732538700/scrum)
