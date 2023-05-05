@@ -1,6 +1,6 @@
 &nbsp;|&nbsp;|&nbsp;
 :-:|:-:|:-:
-&nbsp; | [содержание](../readme.md) | [Жизненный цикл тестирования](../articles/5_3_1_2_lifecycle.md)
+&nbsp; | [содержание](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/README.md) | [Жизненный цикл тестирования](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/Theory/Additionally/2_lifecycle.md)
 
 >[Содрано отсюда](https://svyatoslav.biz/software_testing_book/)
 
@@ -411,4 +411,4 @@
 
 &nbsp;|&nbsp;|&nbsp;
 :-:|:-:|:-:
-&nbsp; | [содержание](../readme.md) | [Жизненный цикл тестирования](../articles/5_3_1_2_lifecycle.md)
+&nbsp; | [содержание](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/README.md) | [Жизненный цикл тестирования](https://github.com/Ask1509/SOFTWARE_TESTER/blob/main/Theory/Additionally/2_lifecycle.md)
